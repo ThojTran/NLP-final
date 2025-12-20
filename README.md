@@ -1,4 +1,4 @@
-# Topic Modeling App (LDA)
+# ỨNG DỤNG TOPIC MODELLING LDA VÀO DỮ LIỆU THU THẬP TỪ BÁO MỚI
 
 ## Giới thiệu
 **Topic Modeling App** là một project học thuật minh họa quy trình tiền xử lý văn bản tiếng Việt và mô hình hóa chủ đề bằng **Latent Dirichlet Allocation (LDA)**. Mục tiêu: mã nguồn đơn giản, trực quan, dễ giải thích cho báo cáo môn học.
@@ -105,3 +105,4 @@ from utils.loader import load_models
 - Thiếu model `.pkl`: chạy `python -m models.train_lda`.
 
 ---
+
