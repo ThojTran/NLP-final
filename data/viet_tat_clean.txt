@@ -1,0 +1,205 @@
+acronym_words,fullform
+vđv,vận động viên
+ubnd,ủy ban nhân dân
+sgc,sở giao dịch
+sra,sân bay
+vs,với
+hlv,huấn luyện viên
+đt,đội tuyển
+xsmt,xổ số miền tây
+hcm,hồ chí minh
+xsmb,xổ số miền bắc
+xshcm,xổ số hồ chí minh
+kqxsmt,kết quả xổ số miền tây
+xsmn,xổ số miền nam
+kqxsmn,kết quả xổ số miền nam
+km,kilometer
+nđ,nghị định
+cp,chính phủ
+qh,quốc hội
+ttt,thông tư
+t,bộ tư pháp
+pccc,phòng cháy chữa cháy
+cnch,cứu nạn cứu hộ
+bks,biển kiểm soát
+rm,rơ moóc
+sn,sinh năm
+xx,dữ liệu ẩn danh
+hđnd,hội đồng nhân dân
+đbqh,đại biểu quốc hội
+chqs,chỉ huy quân sự
+atgt,an toàn giao thông
+csgt,cảnh sát giao thông
+gđ,gia đình
+tw,trung ương
+kg,kilogram
+ocop,chương trình mỗi xã một sản phẩm
+cc,chữa cháy
+catp,công an thành phố
+cbcs,cán bộ chiến sĩ
+bđbp,bộ đội biên phòng
+ttxvn,thông tấn xã việt nam
+mha,bộ nội vụ sigapore
+mda,đạo luật về thuốc của singapore.
+drc,trung tâm phục hồi chức năng ma túy
+ica,cơ quan xuất nhập cảnh và cửa khẩu singapore
+ltvp,thẻ lưu trú dài hạn
+congan,công an
+vn,việt nam
+mg,miligram
+vd,ví dụ
+cbd,hợp chất gây nghiện trong cần sa
+mm,milimet
+cm,centimet
+aqi,chỉ số chất lượng không khí
+nhcsxh,ngân hàng chính sách xã hôi
+nh,ngân hàng
+csxh,chính sách xã hội
+cand,công an nhân dân
+ubmttq,ủy ban mặt trận tổ quốc
+mttq,mặt trận tổ quốc
+tct,tổng công ty
+cp,cổ phần
+vksnd,viện kiểm soát nhân dân
+qlahs,quản lý án hình sự
+vkstc,viện kiểm sát nhân dân tối cao
+tb,thông báo
+kh,kế hoạch
+qđ,quyết định
+tslcd,tài sản cố định
+ndtq,nhân dân tự quản
+h,giờ
+bđs,bất động sản
+bxh,bảng xếp hạng
+mtq,mạnh thường quân
+tand,tòa án nhân dân
+cpcp,chính phủ cộng hòa xã hội chủ nghĩa Việt Nam
+bhxh,bảo hiểm xã hội
+bhyt,bảo hiểm y tế
+gpmb,giải phóng mặt bằng
+thcs,trung học cơ sở
+tt-bgddt,thông tư của Bộ giáo dục và đào tạo
+tp,thành phố
+lnst,lợi nhuận sau thuế
+bhyr,bảo hiểm thất nghiệp
+đbscl,đồng bằng sông cửu long
+ttxcn,thông tấn xã việt nam
+tư,trung ương
+gddt,giáo dục và đào tạo
+dn,doanh nghiệp
+vsmt,vệ sinh môi trường
+cchc,cải cách hành chính
+cntt,công nghệ thông tin
+tdp,tổ dân phố
+kt-xh,kinh tế - xã hội
+đstđc,đường sắt tốc độ cao
+km,kilômét
+ubkttc,ủy ban kinh tế và tài chính
+ttr,tờ trình
+nq,nghị quyết
+antt,an ninh trật tự
+pgs.ts,phó giáo sư tiến sĩ
+arv,antiretroviral
+tmcp,thương mại cổ phần
+tnhh,trách nhiệm hữu hạn
+ctxh,công tác xã hội
+ntm,nông thôn mới
+ctmtqg,chương trình mục tiêu quốc gia
+ksnd,kiểm soát nhân dân
+nhnn,ngân hàng nhà nước
+htx,hợp tác xã
+hmtn,hiến máu tình nguyện
+un,liên hợp quốc
+tp.hcm,thành phố hồ chí minh
+tp.hn,thành phố hà nội
+ai,trí tuệ nhân tạo
+5g,mạng di động thế hệ 5
+4,cách mạng công nghiệp 4.0
+ev,xe điện
+ttck,thị trường chứng khoán
+tttm,trung tâm thương mại
+csđt,cảnh sát điều tra
+blhs,bộ luật hình sự
+blds,bộ luật dân sự
+btc,ban tổ chức
+nv,nhân viên
+hd,hợp đồng
+sv,sinh viên
+hq,hiệu quả
+vtv,đài truyền hình việt nam
+vnpt,tập đoàn bưu chính viễn thông việt nam
+us,hoa kỳ
+usa,hoa kỳ
+uk,anh
+uae,các tiểu vương quốc ả rập thống nhất
+tq,trung quốc
+jp,nhật bản
+unicef,quỹ nhi đồng liên hợp quốc
+unesco,tổ chức giáo dục
+who,tổ chức y tế thế giới
+wto,tổ chức thương mại thế giới
+imf,quỹ tiền tệ quốc tế
+wb,ngân hàng thế giới
+eu,liên minh châu âu
+asean,hiệp hội các quốc gia đông nam á
+nato,tổ chức hiệp ước bắc đại tây dương
+opec,tổ chức các nước xuất khẩu dầu mỏ
+oecd,tổ chức hợp tác và phát triển kinh tế
+ilo,tổ chức lao động quốc tế
+gdđt,giáo dục đào tạo
+pct,phó chủ tịch
+cat,công an tỉnh
+catđ,công an thủ đô
+vs,với
+đh,đại học
+btp,bộ tư pháp
+lđlđ,liên đoàn lao động
+đn,đồng nai
+đb,đại biểu
+đt,điện thoại
+bv,bệnh viện
+bch,ban chấp hành
+clb,câu lạc bộ
+xsmt,xổ số miền trung
+kqxs,kết quả xổ số
+tgđ,tổng giám đốc
+vp,văn phòng
+kd,kinh doanh
+cn,công nghiệp
+nn, nhà nước
+xh,xã hội
+yt,y tế
+gd,giáo dục
+kcn,khu công nghiệp
+kcx,khu chế xuất
+kt,kinh tế
+pt,phát triển
+tt,thẩm phán
+cđ,cao đẳng
+gv,giáo viên
+hs,học sinh
+thpt,trung học phổ thông
+vksnd,viện kiểm sát nhân dân
+cst,cộng sản
+kv,khu vực
+nl,nhân lực
+ql,quản lý
+qt,quốc tế
+tndn,thu nhập doanh nghiệp
+ttđt,thông tin điện tử
+vc,vận chuyển
+vl,vật liệu
+vt,viễn thông
+xk,xuất khẩu
+nk,nhập khẩu
+cnh,công nghiệp hóa
+hđ,hợp đồng
+hđqt,hội đồng quản trị
+cđv,cổ động viên
+sxh,sốt xuất huyết
+nhtm,ngân hàng thương mại
+tmđt,thương mại điện tử
+ctcp,công ty cổ phần
+hđqt,hội đồng quản trị
+cnh,công nghiệp hóa
+gs.ts,giáo sư tiến sĩ
