@@ -1,0 +1,29 @@
+1. Chủ đề: Kết quả Xổ số (Topic 2 hoặc 12)
+Văn bản thô: "Công ty Xổ số kiến thiết thông báo kết quả quay số mở thưởng giải Jackpot hôm nay. Một tấm vé may mắn loại hình Mega 6/45 đã trúng giải độc đắc với giá trị lên đến hàng chục tỷ đồng. Người trúng thưởng tại TP.HCM cần sớm liên hệ để làm thủ tục nhận giải."
+
+Kết quả kỳ vọng: Topic ID: 2 hoặc 12 | Chủ đề: Kết quả Xổ số kiến thiết / Vietlott.
+
+2. Chủ đề: An ninh mạng & Tin giả (Topic 15 hoặc 27)
+Văn bản thô: "Cơ quan chức năng vừa xử phạt một trường hợp đăng tải thông tin thất thiệt, xuyên tạc về tình hình mưa lũ trên mạng xã hội. Hành vi vu khống và xúc phạm danh dự người khác trên Facebook có thể bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+
+Kết quả kỳ vọng: Topic ID: 15 hoặc 27 | Chủ đề: Giả mạo & Xúc phạm / Lừa đảo mạng.
+
+3. Chủ đề: Bất động sản & Dự án (Topic 11 hoặc 20)
+Văn bản thô: "Dự án khu đô thị mới đang triển khai xây dựng hàng loạt căn hộ chung cư và biệt thự kề bên trục đường chính. Khách hàng mua nhà thời điểm này sẽ được hưởng nhiều chính sách ưu đãi về thuế thu nhập và hỗ trợ trả góp dài hạn từ ngân hàng."
+
+Kết quả kỳ vọng: Topic ID: 11 hoặc 20 | Chủ đề: Dự án Bất động sản / Chính sách đất đai.
+
+4. Chủ đề: An toàn giao thông & Xử phạt (Topic 3)
+Văn bản thô: "Lực lượng cảnh sát giao thông đang tăng cường kiểm tra và xử phạt nghiêm các trường hợp vi phạm nồng độ cồn khi điều khiển phương tiện. Nhiều tài xế đã bị khống chế và lập biên bản hành chính do không chấp hành hiệu lệnh kiểm soát của người thi hành công vụ."
+
+Kết quả kỳ vọng: Topic ID: 3 | Chủ đề: Thời tiết & Thiên tai (Lưu ý: Trong file của bạn, Topic 3 đang bị gộp chung với từ khóa xử phạt cồn).
+
+5. Chủ đề: Nông sản & Xuất khẩu (Topic 18)
+Văn bản thô: "Thị trường hồ tiêu và cà phê Robusta ghi nhận mức giá ổn định trong tuần qua. Các hộ nông dân tại Đắk Lắk đang tập trung thu hoạch để phục vụ nhu cầu xuất khẩu sang thị trường châu Âu, dù giá cà phê Arabica có sự biến động nhẹ trên sàn giao dịch quốc tế."
+
+Kết quả kỳ vọng: Topic ID: 18 | Chủ đề: Hồ tiêu & Cà phê.
+
+6. Chủ đề: Môi trường & Rác thải (Topic 26)
+Văn bản thô: "Công tác thu gom và xử lý rác thải tại các khu công nghiệp đang được cải tạo để giảm thiểu ô nhiễm môi trường. Việc tái chế chất thải rắn và xử lý mùi hôi từ các bãi rác tập trung là ưu tiên hàng đầu của chính quyền địa phương trong kế hoạch phát triển bền vững."
+
+Kết quả kỳ vọng: Topic ID: 26 | Chủ đề: Rác thải & Môi trường.
