@@ -24,7 +24,8 @@ Hoặc sẽ cài riêng Streamlit: `pip install streamlit`.
 
 ## Cách chạy
 
-> **Luôn chạy từ thư mục gốc của repository**  và **dùng `python -m ...` để chạy modules**. Không chạy các file `.py` trực tiếp (ví dụ `python data/run_preprocessing.py`) — điều này có thể gây lỗi import.
+> **Luôn chạy từ thư mục gốc của repository**  và **dùng `python -m ...` để chạy modules**. Không chạy các file `.py` trực tiếp (ví dụ `python data/run_preprocessing.py`) — điều này có thể gây lỗi import.  
+> Nếu vẫn không chạy được. Hãy mở powershell chạy đúng thư mục gốc xong nhập  $env:PYTHONPATH = (Get-Location).Path; streamlit run .\topic_modeling_app\app.py
 
 Ví dụ các lệnh (từ thư mục gốc):
 
@@ -105,4 +106,5 @@ from utils.loader import load_models
 - Thiếu model `.pkl`: chạy `python -m models.train_lda`.
 
 ---
+
 
