@@ -1,4 +1,4 @@
-# Nghiên cứu Chủ đề Tin tức tiếng Việt Nguồn dữ liệu Báo Mới (NLP)
+# Phân tích và so sánh các modul dựa trên Chủ đề Tin tức tiếng Việt Nguồn dữ liệu Báo Mới (NLP)
 
 **Mô tả ngắn:**
 Dự án thực hiện pipeline xử lý dữ liệu tin tức tiếng Việt: tiền xử lý (cleaning, tokenization), vector hóa (BoW, TF-IDF, Embedding), và trích chủ đề bằng nhiều phương pháp (LDA, LSA, KMeans, HAC, BERTopic). Mục tiêu là tạo ra các kết quả trong thư mục `Output/` và dễ dàng mở rộng.
